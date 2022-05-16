@@ -1,0 +1,5 @@
+main: network.beefmc.autofarm.AutoFarm
+name: AutoFarm
+version: 0.0.1-DEVELOPMENT
+author: wsman217
+api-version: "1.18"
